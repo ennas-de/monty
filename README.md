@@ -1,1 +1,1 @@
-# monty
+# SOLUTIONS TO MONTY TASK
